@@ -20,6 +20,9 @@
         <module>spring-ldap</module>
         <module>spring-statemachine</module>
         <module>spring-boot-function</module>
+        <module>spring-boot-zipkin</module>
+        <module>hystrix-example</module>
+        <module>spring-boot-axon</module>
     </modules>
 
     <parent>
