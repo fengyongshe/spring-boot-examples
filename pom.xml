@@ -23,6 +23,7 @@
         <module>spring-boot-zipkin</module>
         <module>hystrix-example</module>
         <module>spring-boot-axon</module>
+        <module>spring-cloud-dataflow</module>
     </modules>
 
     <parent>
