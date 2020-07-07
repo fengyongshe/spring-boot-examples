@@ -1,9 +1,9 @@
 spring:
   ldap:
-    urls: ldap://10.139.4.94:389
+    urls: ldap://localhost:389
     base: dc=hadoop,dc=apache,dc=org
     username: cn=Manager,dc=hadoop,dc=apache,dc=org
-    password: E@8jwWj5_e
+    password: passwd
 
 server:
   port: 18080
